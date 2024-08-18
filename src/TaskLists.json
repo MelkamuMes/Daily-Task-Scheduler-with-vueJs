@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Morning Exercise",
+    "type": "Routine",
+    "description": "30 minutes of jump roping followed by 20 push-ups. Focus on maintaining a consistent pace and form.",
+    "date": "2024-08-18",
+    "time": "07:00 AM - 07:45 AM",
+    "priority": "High"
+  },
+  {
+    "id": 2,
+    "title": "Team Meeting",
+    "type": "Work",
+    "description": "Attend the weekly team sync-up to discuss ongoing projects and upcoming deadlines. Prepare status updates for your tasks.",
+    "date": "2024-08-18",
+    "time": "09:00 AM - 10:00 AM",
+    "priority": "Medium"
+  },
+  {
+    "id": 3,
+    "title": "Code Review",
+    "type": "Work",
+    "description": "Review the latest pull requests from the development team. Focus on code quality, functionality, and adherence to project standards.",
+    "date": "2024-08-18",
+    "time": "10:30 AM - 11:30 AM",
+    "priority": "High"
+  },
+  {
+    "id": 4,
+    "title": "Lunch Break",
+    "type": "Break",
+    "description": "Take a break for lunch. Avoid eating at your desk to relax and recharge.",
+    "date": "2024-08-18",
+    "time": "12:00 PM - 01:00 PM",
+    "priority": "Low"
+  },
+  {
+    "id": 5,
+    "title": "Project Development",
+    "type": "Work",
+    "description": "Focus on the new feature development for the Vue.js project. Work on the task management feature for the current sprint.",
+    "date": "2024-08-18",
+    "time": "01:30 PM - 04:00 PM",
+    "priority": "High"
+  },
+  {
+    "id": 6,
+    "title": "Evening Meditation",
+    "type": "Routine",
+    "description": "Practice mindfulness meditation for 20 minutes to unwind after a productive day.",
+    "date": "2024-08-18",
+    "time": "06:00 PM - 06:20 PM",
+    "priority": "Medium"
+  },
+  {
+    "id": 7,
+    "title": "Review Tomorrow's Schedule",
+    "type": "Planning",
+    "description": "Review and plan tasks for tomorrow. Make adjustments to prioritize urgent tasks and ensure a balanced workload.",
+    "date": "2024-08-18",
+    "time": "09:00 PM - 09:30 PM",
+    "priority": "High"
+  }
+]
